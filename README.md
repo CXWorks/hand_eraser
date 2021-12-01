@@ -4,9 +4,9 @@ The C++ and LLVM implementation of Eraser data race detector. [[paper](https://d
 
 ## Dependency
 
-+. LLVM 6.0 + 
-+. clang/clang++ 6.0 +
-+. CMake 3.10 +
++ LLVM 6.0 + 
++ clang/clang++ 6.0 +
++ CMake 3.10 +
 
 ## Usage
 
