@@ -159,7 +159,7 @@ inline unsigned long get_addr(unsigned long long key) {
 }
 
 
-static u_char qtable[]{0, 1, 2, 3};
+static u_char qtable[]{0, 1, 3, 3};
 static u_char wtable[]{1, 3, 3, 3};
 static u_char rtable[]{0, 2, 2, 3};
 
